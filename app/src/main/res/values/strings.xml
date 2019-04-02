@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PiP_Example</string>
+    <string name="pip_action_mute">action_1</string>
+    <string name="pip_action_mute_description">action_2</string>
+</resources>
